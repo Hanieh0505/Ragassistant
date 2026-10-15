@@ -1,0 +1,13 @@
+# Environment variables
+.env
+
+# Vector database (Too large & local)
+chroma_db/
+
+# Python virtual environment
+venv/
+__pycache__/
+
+# Temporary files
+temp.pdf
+*.pyc
